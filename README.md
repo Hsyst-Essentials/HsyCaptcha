@@ -3,7 +3,7 @@
 ## Programado por [op3n](https://github.com/op3ny)
 
 # Tutorial de Uso
-Caso você queira apenas instalar o HsyCaptcha, [Clique Aqui!](https://github.com/Hsyst/HsyCaptcha/blob/main/tutorial-de-uso.md)
+Caso você queira apenas instalar o HsyCaptcha, [Clique Aqui!](https://github.com/Hsyst-Essentials/HsyCaptcha/blob/main/tutorial-de-uso.md)
 
 # Documentação técnica - HsyCaptcha
 Na documentação técnica, você vai ver como o HsyCaptcha funciona, com uma linguagem técnica. Caso você queira realizar modificações mais a fundo, ou simplesmente conhecer um pouco mais do projeto, continue aqui.
@@ -51,7 +51,7 @@ Exemplo de resposta: `{"images":[{"image":"data:image/png;","token":"f9b2d2049ad
 # Ajustes possiveis
 Este script tem algumas alterações possiveis, que você pode alterar de acordo com o que achar útil.
 
-[index.js](https://github.com/Hsyst/HsyCaptcha/blob/main/index.js)
+[index.js](https://github.com/Hsyst-Essentials/HsyCaptcha/blob/main/index.js)
 
 - Linhas 10, 11, 12, 13, 14, 15, 16, 17
 Configuração de CORS.
